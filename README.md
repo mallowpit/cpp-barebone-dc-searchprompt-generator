@@ -4,4 +4,4 @@ so and so forth
 
 smth like this idk
 
-![image](https://github.com/user-attachments/assets/0a82d4a0-5db7-4bf3-8507-573fa4a98668)
+![image](https://github.com/user-attachments/assets/3dd8f220-c45e-470b-bbb5-d3093ce30f64)
