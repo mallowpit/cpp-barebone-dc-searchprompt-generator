@@ -1,3 +1,5 @@
+go compile using mingw
+
 put 1 on both initial & final week (the first batch)
 put 2 on the second batch of initial & final week
 so and so forth
